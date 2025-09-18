@@ -1,7 +1,8 @@
 // App.js
 import React from "react";
 import AlertMap from "./components/AlertMap";
-
+import './App.css';
+import './index.css';
 function App() {
   return (
     <div>
